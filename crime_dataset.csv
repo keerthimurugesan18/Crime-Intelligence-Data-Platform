@@ -1,0 +1,21 @@
+Crime_ID,Crime_Type,Location,Crime_Date,Crime_Time,Victim_Age,Gender,Status
+1001,Theft,Chennai,2025-01-05,Night,24,Female,Solved
+1002,Robbery,Coimbatore,2025-01-06,Evening,31,Male,Pending
+1003,Assault,Madurai,2025-01-07,Morning,28,Male,Solved
+1004,Burglary,Trichy,2025-01-08,Night,45,Female,Pending
+1005,Cyber Crime,Salem,2025-01-09,Evening,22,Female,Solved
+1006,Theft,Chennai,2025-01-10,Morning,35,Male,Solved
+1007,Robbery,Erode,2025-01-11,Night,40,Male,Pending
+1008,Assault,Tirunelveli,2025-01-12,Evening,29,Female,Solved
+1009,Burglary,Vellore,2025-01-13,Night,50,Male,Pending
+1010,Cyber Crime,Chennai,2025-01-14,Morning,26,Female,Solved
+1011,Theft,Coimbatore,2025-01-15,Evening,30,Male,Solved
+1012,Robbery,Madurai,2025-01-16,Night,34,Female,Pending
+1013,Assault,Salem,2025-01-17,Morning,27,Male,Solved
+1014,Burglary,Trichy,2025-01-18,Night,42,Female,Pending
+1015,Cyber Crime,Erode,2025-01-19,Evening,23,Male,Solved
+1016,Theft,Vellore,2025-01-20,Morning,38,Female,Solved
+1017,Robbery,Chennai,2025-01-21,Night,33,Male,Pending
+1018,Assault,Coimbatore,2025-01-22,Evening,25,Female,Solved
+1019,Burglary,Madurai,2025-01-23,Night,46,Male,Pending
+1020,Cyber Crime,Salem,2025-01-24,Morning,21,Female,Solved
